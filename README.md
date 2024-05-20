@@ -1,1 +1,1 @@
-Projeto de API em Go.
+Projeto de API em Go. Estudos iniciais. A ideia é fazer um projeto de ponta a ponta, desde a api até a visualzação de um website que consome essa api.
