@@ -4,8 +4,12 @@ import (
 	"gorm.io/gorm"
 )
 
-type Product struct {
+type Opening struct {
 	gorm.Model
-	Code  string
-	Price uint
+	Role     string
+	Company  string
+	Location string
+	Remote   bool
+	Link     string
+	Salary   int64
 }
